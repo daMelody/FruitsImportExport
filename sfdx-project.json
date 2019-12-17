@@ -1,0 +1,11 @@
+{
+    "packageDirectories": [
+      {
+        "path": "force-app",
+        "default": true
+      }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://damelody-infosys1-dev-ed.lightning.force.com/.com",
+    "sourceApiVersion": "47.0"
+  }
